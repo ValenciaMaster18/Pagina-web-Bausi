@@ -1,0 +1,39 @@
+/*===============Propiedades Globales================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+
+/*===================MENU==========================*/
+
+ #menu li > a {
+     font-size: 18px;
+     font-weight: bold;
+     color: #3f3f3f;
+    
+ }
+
+ #menu form > button{
+    font-size: 18px;
+    font-weight: bold;
+ }
+#Barra-busqueda{
+    font-size: 1em;
+    width: 17em;
+    height: 2em;
+}
+#boton{
+    font-size: 1em;
+    width: 2em;
+    height: 2em;
+}
+
+ 
+ /*===================Slider imagenes==========================*/
+ .carousel-inner {
+    max-height:39rem;
+ }
